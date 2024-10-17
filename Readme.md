@@ -74,7 +74,7 @@ malvink003@gmail.com
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-## Ethic panther md repo
+## Ethic md repo
 
 [`Tap Here open`](https://github.com/kingmalvn/ethic-md)
 
